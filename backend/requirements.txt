@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+psycopg2-binary
+pgvector
+redis
+python-jose
+langchain
+anthropic
+openai
+celery
+pytest
